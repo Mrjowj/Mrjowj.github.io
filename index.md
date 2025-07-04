@@ -4,9 +4,9 @@ title: "Welcome to mrjo's lab"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/banner.gif 
-  cta_label: "Explore My Projects"
-  cta_url: "https://github.com/Mrjowj"
+  overlay_image: /assets/images/banner.gif 
+  cta_label: "Enter Home"
+  cta_url: "/home/"
   caption: "Where parallel computing meets simulation and graphics."
 excerpt: "A high-performance visualization engineer wannabe."
 ---
