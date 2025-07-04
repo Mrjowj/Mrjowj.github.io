@@ -11,9 +11,6 @@ include:
 plugins:
   - jekyll-include-cache
 
-header_pages:
-  - _pages/about.md
-
 author:
   name: "Mrjowj"
   avatar: "/assets/images/avatar.png"
