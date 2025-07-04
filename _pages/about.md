@@ -3,8 +3,6 @@ title: "About Me"
 layout: single
 permalink: /about/
 ---
-# About Me
-
 Just call me mrjo — and no, it has nothing to do with the Joker.
 
 I’m currently a junior university student, and I’m quite interested in low-level stuff in the IT field (though to be honest, I haven’t studied much of it yet).

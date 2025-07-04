@@ -16,5 +16,3 @@ Hello, I’m Mrjowj. This is my page.
 It’s still quite barren for now, but I’ll keep updating it.
 
 <a href="/home/" class="btn btn--primary">Enter Home</a>
-
-👉 [About me](/about/)  

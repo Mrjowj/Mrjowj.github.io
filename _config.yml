@@ -30,3 +30,8 @@ defaults:
       author_profile: true
       toc: true
       toc_sticky: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
