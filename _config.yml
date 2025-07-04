@@ -1,0 +1,12 @@
+title: Mrjowj's Site
+description: "Just tring to show myself"
+url: "https://Mrjowj.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-include-cache
+
+header_pages:
+  - _pages/about.md
