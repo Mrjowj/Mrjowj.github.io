@@ -1,7 +1,7 @@
 ---
 title: "Ray Tracer"
 excerpt: "A simple C++ ray tracing renderer with OpenMP acceleration."
-image: /assets/images/raytracer.jpg
+image: /assets/images/raytracer.png
 tags: [C++, OpenMP, Rendering]
 ---
 
