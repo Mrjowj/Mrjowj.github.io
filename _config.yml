@@ -5,8 +5,29 @@ baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
+include:
+  - _pages
+
 plugins:
   - jekyll-include-cache
 
 header_pages:
   - _pages/about.md
+
+author:
+  name: "Mrjowj"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Hello"
+  location: "Tokyo, Japan"
+  email: "dingdoudou0423@gmail.com.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mrjowj"
+
+defaults:
+  - scope:
+      path: ""
+      type: ""
+    values:
+      author_profile: true
