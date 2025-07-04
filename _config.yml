@@ -3,7 +3,7 @@ description: "Just tring to show myself"
 url: "https://Mrjowj.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+remote_theme: "mmistakes/minimal-mistakes"
 
 include:
   - _pages
