@@ -31,3 +31,5 @@ defaults:
       type: ""
     values:
       author_profile: true
+      toc: true
+      toc_sticky: true
