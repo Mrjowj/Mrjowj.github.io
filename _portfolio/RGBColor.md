@@ -1,9 +1,11 @@
 ---
 title: "RGB Color"
 excerpt: "A Unity3D RPG game prototype with a dynamic RGB color system."
+layout: single
 image: /assets/images/rgbcolor.png
 teaser: /assets/images/rgbcolor.png
 tags: [Unity, C#, GameDev]
+author_profile: true
 ---
 
 A Unity-based 3D RPG prototype integrating a unique RGB color interaction mechanic.  
