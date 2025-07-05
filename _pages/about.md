@@ -3,20 +3,30 @@ title: "About Me"
 layout: single
 permalink: /about/
 ---
-Just call me mrjo — and no, it has nothing to do with the Joker.
 
-I’m currently a junior university student, and I’m quite interested in low-level stuff in the IT field (though to be honest, I haven’t studied much of it yet).
+Just call me **mrjo** — and no, it has nothing to do with the Joker.
 
-I enjoy playing video games and often find myself captivated by their artistic styles.
+I’m currently a junior university student studying computer science in Japan.  
+Though I still have much to learn, I’m especially drawn to low-level systems, performance optimization, and the fascinating world where computing meets art.
 
-Hopefully, this site will motivate me to stay on track and spend more time diving into IT topics.
+In my free time, I enjoy playing video games and often find inspiration from their mechanics and visual styles.  
+Creating technical projects that merge graphics, simulation, and performance has become something I genuinely enjoy.
 
-# Addition:
+---
 
-我会三种语言，分别是中、英、日，然后现在在找实习（哭了）。
+### 🌏 Multilingual Background
 
-I speak three languages: Chinese, English, and Japanese.
-Currently looking for an internship (send help 😢).
+I speak three languages:
+- **Chinese** (native)
+- **English** (academic/professional level)
+- **Japanese** (daily and technical use)
 
-中国語・英語・日本語の三か国語が話せます。
-今、絶賛インターン探し中です（泣）。
+Currently on the hunt for an internship — any leads would be greatly appreciated 😢  
+目前正在寻找实习机会——如果您有推荐，非常感谢！🙏  
+現在、インターンを探しています。何か情報があれば本当に助かります…（泣）
+
+---
+
+Hopefully this site will help me stay motivated and focused on building meaningful technical skills.  
+Thanks for visiting!
+

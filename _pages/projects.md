@@ -5,5 +5,5 @@ permalink: /projects/
 collection: portfolio
 entries_layout: grid
 classes: wide
-css: "/assets/css/projects.css"
+css: "/assets/css/project.css"
 ---

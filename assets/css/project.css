@@ -1,11 +1,16 @@
 .archive__item {
-  background: white;
+  background: #fff;
   border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-  padding: 1em;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   transition: transform 0.2s ease;
+  padding: 1rem;
 }
 
 .archive__item:hover {
   transform: translateY(-3px);
+}
+
+.archive__item-teaser {
+  border-radius: 6px;
+  overflow: hidden;
 }

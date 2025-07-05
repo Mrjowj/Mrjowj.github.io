@@ -10,4 +10,4 @@ author_profile: true
 
 A lightweight CPU ray tracing renderer using basic lighting models and acceleration structure.
 
-👉 GitHub: [tiny-processing-things](https://github.com/Mrjowj/MyToyRayTrace)
+👉 GitHub: [MyToyRayTrace](https://github.com/Mrjowj/MyToyRayTrace)
